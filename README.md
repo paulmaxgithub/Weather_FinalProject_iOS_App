@@ -17,6 +17,7 @@ This is entirely free. To do so :
 
 ## Screenshots
 img src="ScreenshotWeatherApp.png" width="100"
+![ScreenshotWeatherApp.png](https://github.com/paulmaxgithub/WeatherAppTestProject/blob/master/ScreenshotWeatherApp.png)
 
 ## Requirements
 * xCode Version 11.6 (11E708)
