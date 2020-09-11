@@ -3,7 +3,7 @@
 Swift Language Weather is an iOS weather app developed in Swift 5.
 
 
-# 
+# Screenshots
 
 # Requirements
 * xCode Version 11.6 (11E708)
