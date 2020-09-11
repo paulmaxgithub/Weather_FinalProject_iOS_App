@@ -5,6 +5,10 @@ The application allows you to receive weather data from your current location.
 Before launching an application, a notification is displayed on the phone allowing you to use the device with the application.
 
 ## What is Weather ?
+Weather is a simple app that displays weather in Swift.   
+I saw a lot of tutorials on the web, that shows very basic feature of Swift.  
+I tried to combine all of them in one simple app to demonstrate how Swift works.   
+It shows asynchronous data fetch, binding and how to build user interfaces with Swift.
 
 ## Dark Sky
 
@@ -25,4 +29,5 @@ This is entirely free. To do so :
 
 ## Author
 
-This app was made by me, [Pavel Maximenko](https://www.linkedin.com/in/pavelmaximenko/). If you want to contact me, you can send me DM on LinkedIn.
+This app was made by me, [Pavel Maximenko](https://www.linkedin.com/in/pavelmaximenko/).   
+If you want to contact me, you can send me DM on LinkedIn.
