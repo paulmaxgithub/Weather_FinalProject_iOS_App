@@ -1,6 +1,10 @@
 # Weather App (TestProject)
 
-Swift Language Weather is an iOS weather app developed in Swift 5.
+This app is the final project of the Harvard course CS50. 
+The application allows you to receive weather data from your current location. 
+Before launching an application, a notification is displayed on the phone allowing 
+you to use the device with the application.
+
 
 
 # Screenshots
