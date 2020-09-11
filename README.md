@@ -16,7 +16,7 @@ This is entirely free. To do so :
 3. Replace static let darkSky: String = "" by your key.
 
 ## Screenshots
-![](https://github.com/paulmaxgithub/WeatherAppTestProject/blob/master/ScreenshotWeatherApp.png 175X85)
+img src="ScreenshotWeatherApp.png" width="100"
 
 ## Requirements
 * xCode Version 11.6 (11E708)
