@@ -6,8 +6,7 @@ Before launching an application, a notification is displayed on the phone allowi
 
 ## What is Weather ?
 
-## Installation
-#### Dark Sky
+## Dark Sky
 
 Weather uses the Dark Sky API to fetch weather data. To run this app, you'll need a Dark Sky API key. This is entirely free. To do so :
 
@@ -24,4 +23,4 @@ Weather uses the Dark Sky API to fetch weather data. To run this app, you'll nee
 
 ## Author
 
-This app was made by me, Benjamin Pisano. If you want to contact me, you can send me DM on Twitter
+This app was made by me, [Pavel Maximenko](https://www.linkedin.com/in/pavelmaximenko/). If you want to contact me, you can send me DM on Twitter
