@@ -23,4 +23,4 @@ Weather uses the Dark Sky API to fetch weather data. To run this app, you'll nee
 
 ## Author
 
-This app was made by me, [Pavel Maximenko](https://www.linkedin.com/in/pavelmaximenko/). If you want to contact me, you can send me DM on Twitter
+This app was made by me, [Pavel Maximenko](https://www.linkedin.com/in/pavelmaximenko/). If you want to contact me, you can send me DM on LinkedIn.
