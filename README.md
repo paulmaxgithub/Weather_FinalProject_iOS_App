@@ -1,4 +1,4 @@
-# Weather App (TestProject)
+# Weather App - Final (Harvard, CS50) Project
 
 This app is the final project of the Harvard course CS50.
 The application allows you to receive weather data from your current location. 
@@ -16,7 +16,7 @@ This is entirely free. To do so :
 3. Replace static let darkSky: String = "" by your key.
 
 ## Screenshots
-![Screen Shot 2020-09-03 at 16.15.39.png]
+
 
 ## Requirements
 * xCode Version 11.6 (11E708)
