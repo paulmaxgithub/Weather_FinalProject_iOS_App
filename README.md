@@ -8,7 +8,7 @@ Before launching an application, a notification is displayed on the phone allowi
 
 ## Dark Sky
 
-Weather uses the Dark Sky API to fetch weather data. To run this app, you'll need a Dark Sky API key. This is entirely free. To do so :
+Weather uses the [Dark Sky API](https://darksky.net/dev) to fetch weather data. To run this app, you'll need a Dark Sky API key. This is entirely free. To do so :
 
 1. Create your account here and get your Dark Sky API key.
 2. Open the project, and go to the NetworkManager.swift file.
