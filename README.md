@@ -28,6 +28,5 @@ This is entirely free. To do so :
 * Swift 5
 
 ## Author
-
 This app was made by me, [Pavel Maximenko](https://www.linkedin.com/in/pavelmaximenko/).   
 If you want to contact me, you can send me DM on LinkedIn.
